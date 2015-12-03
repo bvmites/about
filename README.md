@@ -30,5 +30,6 @@ Update
 - Issue
 - PR
 - Contact
-  - dhruvin2910@gmail.com
-  - +91 94086 51825
+  - Dhruvin Gandhi
+    - dhruvin2910@gmail.com
+    - +91 94086 51825
