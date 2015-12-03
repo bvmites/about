@@ -24,8 +24,8 @@ Members
 | Varun Barad         | [VarunBarad](https://github.com/VarunBarad)               |
 | Vatsal Trivedi      | [vattytrivedi](https://github.com/vattytrivedi)           |
 
-To update and to add
---------------------
+Update
+------
 
 - Issue
 - PR
