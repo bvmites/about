@@ -21,6 +21,7 @@ Members
 | Rohit Patel         | [Rohitpa7824](https://github.com/Rohitpa7824)             |
 | Sandeep Anjara      | [sandeepanjara](https://github.com/sandeepanjara)         |
 | Ankur Timbadiya     | [Timbadiyaankur](https://github.com/Timbadiyaankur)       |
+| Varis Bhalala       | [varisbhalala](https://github.com/varisbhalala)           |
 | Varun Barad         | [VarunBarad](https://github.com/VarunBarad)               |
 | Vatsal Trivedi      | [vattytrivedi](https://github.com/vattytrivedi)           |
 
