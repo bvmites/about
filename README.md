@@ -16,6 +16,7 @@ Members : 16
 | Divyesh Peshavaria  | [DivyeshPeshavaria](https://github.com/DivyeshPeshavaria) |
 | Dixita Ganatra      | [dixita0607](https://github.com/dixita0607)               |
 | Gaurav Jindal       | [gj100596](https://github.com/gj100596)                   |
+| Hardik Patel        | [hptl2205](https://github.com/hptl2205)                   |
 | Parth               | [parth06](https://github.com/parth06)                     |
 | Riddhi Rajpura      | [riddhu007](https://github.com/riddhu007)                 |
 | Rohit Patel         | [Rohitpa7824](https://github.com/Rohitpa7824)             |
