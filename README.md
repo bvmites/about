@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 19
+Members : 20
 ------------
 
 
@@ -22,6 +22,7 @@ Members : 19
 | Parth               | [parth06](https://github.com/parth06)                     |
 | Riddhi Rajpura      | [riddhu007](https://github.com/riddhu007)                 |
 | Rohit Patel         | [Rohitpa7824](https://github.com/Rohitpa7824)             |
+| Sagar Pandav        | [sagarpandav](https://github.com/sagarpandav)             |
 | Sandeep Anjara      | [sandeepanjara](https://github.com/sandeepanjara)         |
 | Ankur Timbadiya     | [Timbadiyaankur](https://github.com/Timbadiyaankur)       |
 | Varis Bhalala       | [varisbhalala](https://github.com/varisbhalala)           |
