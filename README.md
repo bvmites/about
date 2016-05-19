@@ -2,16 +2,18 @@ BVMites
 =======
 
 
-Members : 20
+Members : 24
 ------------
 
 
 | Name                | Profile                                                   |
 | ------------------- | --------------------------------------------------------- |
+| Abhishek Parmar     | [abhishek67parmar](https://github.com/abhishek67parmar)   |
 | Alay Patel          | [alaypatel07](https://github.com/alaypatel07)             |
 | Arvind Iyer         | [Arvindiyer](https://github.com/arvindiyer)               |
 | Binny Gandhi        | [BinnyGandhi](https://github.com/BinnyGandhi)             |
 | Vatsal Patel        | [buzz2vatsal](https://github.com/buzz2vatsal)             |
+| Chintan Acharya     | [ChintanAcharya](https://github.com/ChintanAcharya)       |
 | Dhruvin Gandhi      | [dhruvin2910](https://github.com/dhruvin2910)             |
 | Dhruv Suthar        | [DhruvSuthar](https://github.com/DhruvSuthar)             |
 | Divyesh Peshavaria  | [DivyeshPeshavaria](https://github.com/DivyeshPeshavaria) |
@@ -28,6 +30,8 @@ Members : 20
 | Varis Bhalala       | [varisbhalala](https://github.com/varisbhalala)           |
 | Varun Barad         | [VarunBarad](https://github.com/VarunBarad)               |
 | Vatsal Trivedi      | [vattytrivedi](https://github.com/vattytrivedi)           |
+| Vishwas Patel       | [vrp97](https://github.com/vrp97)                         |
+| Yash Chavda         | [yashchavda96](https://github.com/yashchavda96)           |
 
 Update
 ------
