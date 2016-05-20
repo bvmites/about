@@ -21,7 +21,7 @@ Members : 24
 | Gaurav Jindal       | [gj100596](https://github.com/gj100596)                   |
 | Hardik Patel        | [hptl2205](https://github.com/hptl2205)                   |
 | Kunal Thanki        | [kthanky](https://github.com/kthanky)                     |
-| Parth               | [parth06](https://github.com/parth06)                     |
+| Parth Shah          | [parth06](https://github.com/parth06)                     |
 | Riddhi Rajpura      | [riddhu007](https://github.com/riddhu007)                 |
 | Rohit Patel         | [Rohitpa7824](https://github.com/Rohitpa7824)             |
 | Sagar Pandav        | [sagarpandav](https://github.com/sagarpandav)             |
