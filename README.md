@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 26
+Members : 27
 ------------
 
 
@@ -23,6 +23,7 @@ Members : 26
 | Parth Shah          | [infiniator](https://github.com/infiniator)               |
 | Kunal Thanki        | [kthanky](https://github.com/kthanky)                     |
 | Meet Patel          | [meet16](https://github.com/meet16)                       |
+| Nilesh Kevlani      | [njkevlani](https://github.com/njkevlani)                 |
 | Parth Shah          | [parth06](https://github.com/parth06)                     |
 | Riddhi Rajpura      | [riddhu007](https://github.com/riddhu007)                 |
 | Rohit Patel         | [Rohitpa7824](https://github.com/Rohitpa7824)             |
