@@ -16,7 +16,7 @@ Members : 27
 | Chintan Acharya     | [ChintanAcharya](https://github.com/ChintanAcharya)       |
 | Dhruvin Gandhi      | [dhruvin2910](https://github.com/dhruvin2910)             |
 | Dhruv Suthar        | [DhruvSuthar](https://github.com/DhruvSuthar)             |
-| Divyesh Peshavaria  | [DivyeshPeshavaria](https://github.com/DivyeshPeshavaria) |
+| Divyesh Peshavaria  | [div3125](https://github.com/div3125)                     |
 | Dixita Ganatra      | [dixita0607](https://github.com/dixita0607)               |
 | Gaurav Jindal       | [gj100596](https://github.com/gj100596)                   |
 | Hardik Patel        | [hptl2205](https://github.com/hptl2205)                   |
