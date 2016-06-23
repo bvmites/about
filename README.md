@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 27
+Members : 28
 ------------
 
 
@@ -25,6 +25,7 @@ Members : 27
 | Meet Patel          | [meet16](https://github.com/meet16)                       |
 | Nilesh Kevlani      | [njkevlani](https://github.com/njkevlani)                 |
 | Parth Shah          | [parth06](https://github.com/parth06)                     |
+| Parth Upadhyay      | [parth696](https://github.com/parth696)                   |
 | Riddhi Rajpura      | [riddhu007](https://github.com/riddhu007)                 |
 | Rohit Patel         | [Rohitpa7824](https://github.com/Rohitpa7824)             |
 | Sagar Pandav        | [sagarpandav](https://github.com/sagarpandav)             |
@@ -35,6 +36,7 @@ Members : 27
 | Vatsal Trivedi      | [vattytrivedi](https://github.com/vattytrivedi)           |
 | Vishwas Patel       | [vrp97](https://github.com/vrp97)                         |
 | Yash Chavda         | [yashchavda96](https://github.com/yashchavda96)           |
+
 
 Update
 ------
