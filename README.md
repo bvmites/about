@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 30
+Members : 32
 ------------
 
 
@@ -10,8 +10,10 @@ Members : 30
 | ------------------- | --------------------------------------------------------- |
 | Abhishek Mehta      | [ab2495](https://github.com/ab2495)                       |
 | Abhishek Parmar     | [abhishek67parmar](https://github.com/abhishek67parmar)   |
+| Abhishek Shah       | [abhi5658](https://github.com/abhi5658)                   |
 | Alay Patel          | [alaypatel07](https://github.com/alaypatel07)             |
 | Arvind Iyer         | [Arvindiyer](https://github.com/arvindiyer)               |
+| Aseem Thakkar       | [aseem-thakkar](https://github.com/aseem-thakkar)         |
 | Binny Gandhi        | [BinnyGandhi](https://github.com/BinnyGandhi)             |
 | Vatsal Patel        | [buzz2vatsal](https://github.com/buzz2vatsal)             |
 | Chintan Acharya     | [ChintanAcharya](https://github.com/ChintanAcharya)       |
