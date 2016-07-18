@@ -9,8 +9,8 @@ Members : 32
 | Name                | Profile                                                   |
 | ------------------- | --------------------------------------------------------- |
 | Abhishek Mehta      | [ab2495](https://github.com/ab2495)                       |
-| Abhishek Parmar     | [abhishek67parmar](https://github.com/abhishek67parmar)   |
 | Abhishek Shah       | [abhi5658](https://github.com/abhi5658)                   |
+| Abhishek Parmar     | [abhishek67parmar](https://github.com/abhishek67parmar)   |
 | Alay Patel          | [alaypatel07](https://github.com/alaypatel07)             |
 | Arvind Iyer         | [Arvindiyer](https://github.com/arvindiyer)               |
 | Aseem Thakkar       | [aseem-thakkar](https://github.com/aseem-thakkar)         |
@@ -29,6 +29,7 @@ Members : 32
 | Nilesh Kevlani      | [njkevlani](https://github.com/njkevlani)                 |
 | Parth Shah          | [parth06](https://github.com/parth06)                     |
 | Parth Upadhyay      | [parth696](https://github.com/parth696)                   |
+| Manva Pradhan       | [pradhanmanva](https://github.com/pradhanmanva)           |
 | Riddhi Rajpura      | [riddhu007](https://github.com/riddhu007)                 |
 | Rohit Patel         | [Rohitpa7824](https://github.com/Rohitpa7824)             |
 | Sagar Pandav        | [sagarpandav](https://github.com/sagarpandav)             |
