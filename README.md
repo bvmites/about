@@ -38,7 +38,7 @@ Members : 36
 | Sandeep Anjara      | [sandeepanjara](https://github.com/sandeepanjara)         |
 | Ankur Timbadiya     | [Timbadiyaankur](https://github.com/Timbadiyaankur)       |
 | Tushar Gonawala     | [tushar8049](https://github.com/tushar8049)               |
-| Urja Solanki        | [urjas](https://github.com/urjas)           |
+| Urja Solanki        | [urjas](https://github.com/urjas)                         |
 | Varis Bhalala       | [varisbhalala](https://github.com/varisbhalala)           |
 | Varun Barad         | [VarunBarad](https://github.com/VarunBarad)               |
 | Vatsal Trivedi      | [vattytrivedi](https://github.com/vattytrivedi)           |
@@ -49,9 +49,5 @@ Members : 36
 Update
 ------
 
-- Issue
-- PR
-- Contact
-  - Dhruvin Gandhi
-    - dhruvin2910@gmail.com
-    - +91 94086 51825
+- To add members (BVMites) in this organization, create an issue mentioning their username.
+- The issue will be closed only after all the users mentioned in it accepts the invitation.
