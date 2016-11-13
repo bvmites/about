@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 37
+Members : 38
 ------------
 
 
@@ -28,6 +28,7 @@ Members : 37
 | Kunal Thanki        | [kthanky](https://github.com/kthanky)                     |
 | Maunil Swadas       | [maunilswadas](https://github.com/maunilswadas)           |
 | Meet Patel          | [meet16](https://github.com/meet16)                       |
+| Neel Patel          | [neelpatel05](https://github.com/neelpatel05)             |
 | Nilesh Kevlani      | [njkevlani](https://github.com/njkevlani)                 |
 | Parth Shah          | [parth06](https://github.com/parth06)                     |
 | Parth Upadhyay      | [parth696](https://github.com/parth696)                   |
