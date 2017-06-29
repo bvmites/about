@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 41
+Members : 42
 ------------
 
 
@@ -49,6 +49,7 @@ Members : 41
 | Vatsal Trivedi      | [vattytrivedi](https://github.com/vattytrivedi)             |
 | Vishwas Patel       | [vrp97](https://github.com/vrp97)                           |
 | Yash Chavda         | [yashchavda96](https://github.com/yashchavda96)             |
+| Darshan Dalal       | [Zayn010](https://github.com/Zayn010)                       |
 
 
 Update
