@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 50
+Members : 51
 ------------
 
 
@@ -49,6 +49,7 @@ Members : 50
 | Sandeep Anjara     | [sandeepanjara](https://github.com/sandeepanjara)           |
 | Shrey Vyas         | [Shreyv](https://github.com/Shreyv)                         |
 | Siddharth Goswami  | [siddharth1024](https://github.com/siddharth1024)           |
+| Tejas123456        | [Tejas123456](https://github.com/Tejas123456)               |
 | Timbadiyaankur     | [Timbadiyaankur](https://github.com/Timbadiyaankur)         |
 | Tushar Gonawala    | [tushar8049](https://github.com/tushar8049)                 |
 | Urja Solanki       | [urjas](https://github.com/urjas)                           |
