@@ -1,5 +1,5 @@
 const fs = require('fs');
-const read = require('read')
+const inquirer = require('inquirer')
 const gfmt = require('gfmt')
 const GitHubAPI = require('github')
 const cp = require('child_process')
@@ -12,17 +12,14 @@ const getCredentials = () => new Promise((res, rej) => {
       password: process.env.GH_PASSWORD
     })
   } else {
-    read({prompt: 'Username: '}, (err, username) => {
-      if (err) rej(err)
-      else read({prompt: 'Password: ', silent: true, replace: '*'}, (err, password) => {
-        if (err) rej(err)
-        else {
-          process.env.GH_USERNAME = username
-          process.env.GH_PASSWORD = password
-          res({username, password})
-        }
-      })
-    })
+    inquirer.prompt([
+      {name: 'username', type: 'input', message: 'Username'},
+      {name: 'password', type: 'password', message: 'Password'}
+    ]).then(({username, password}) => {
+      process.env.GH_USERNAME = username
+      process.env.GH_PASSWORD = password
+      res({username, password})
+    }).catch(rej)
   }
 })
 
