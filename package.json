@@ -4,9 +4,7 @@
   "description": "Helps update the README.md for bvmites/about",
   "main": "index.js",
   "scripts": {
-    "start": "npm run update-local",
-    "update-local": "node index.js",
-    "update-remote": "REMOTE=1 node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
