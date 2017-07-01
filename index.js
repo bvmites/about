@@ -57,7 +57,8 @@ const updateREADME = members => {
 const commitAndPush = () => new Promise((res, rej) => {
   if (process.env.REMOTE)
     cp.exec('git reset && git add README.md && git commit -m "Update" && ' +
-      `git push https://${process.env.GH_USERNAME}:${process.env.GH_PASSWORD}@github.com/bvmites/about.git master`,
+      `git push https://${encodeURIComponent(process.env.GH_USERNAME)}:${encodeURIComponent(process.env.GH_PASSWORD)}` +
+      '@github.com/bvmites/about.git master',
       {encoding: 'utf-8'},
       (err, stdout, stderr) => {
         if (err) rej({stdout, stderr})
