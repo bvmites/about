@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 49
+Members : 50
 ------------
 
 
@@ -42,6 +42,7 @@ Members : 49
 | Manva Pradhan      | [pradhanmanva](https://github.com/pradhanmanva)             |
 | Pranshu Dave       | [pranshu0210](https://github.com/pranshu0210)               |
 | riddhu007          | [riddhu007](https://github.com/riddhu007)                   |
+| Ritesh1998         | [Ritesh1998](https://github.com/Ritesh1998)                 |
 | Rohit Patel        | [Rohitpa7824](https://github.com/Rohitpa7824)               |
 | Romil Siddhapura   | [romilsiddhapura](https://github.com/romilsiddhapura)       |
 | Sagar Pandav       | [sagarpandav](https://github.com/sagarpandav)               |
