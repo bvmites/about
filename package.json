@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/bvmites/about/issues"
   },
-  "homepage": "https://github.com/bvmites/about#readme"
+  "homepage": "https://github.com/bvmites/about#readme",
+  "dependencies": {
+    "gfmt": "^1.0.0",
+    "github": "^9.2.0",
+    "handlebars": "^4.0.10",
+    "read": "^1.0.7"
+  }
 }
