@@ -1,0 +1,26 @@
+{
+  "name": "about",
+  "version": "1.0.0",
+  "description": "Helps update the README.md for bvmites/about",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run update",
+    "update": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvmites/about.git"
+  },
+  "keywords": [
+    "About",
+    "BVMites",
+    "Members"
+  ],
+  "author": "Dhruvin Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvmites/about/issues"
+  },
+  "homepage": "https://github.com/bvmites/about#readme"
+}
