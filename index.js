@@ -2,6 +2,7 @@ const fs = require('fs');
 const read = require('read')
 const gfmt = require('gfmt')
 const GitHubAPI = require('github')
+const cp = require('child_process')
 const template = require('handlebars').compile(fs.readFileSync('README.handlebars.md', 'utf-8'))
 
 const getCredentials = () => new Promise((res, rej) => {
@@ -15,7 +16,11 @@ const getCredentials = () => new Promise((res, rej) => {
       if (err) rej(err)
       else read({prompt: 'Password: ', silent: true, replace: '*'}, (err, password) => {
         if (err) rej(err)
-        else res({username, password})
+        else {
+          process.env.GH_USERNAME = username
+          process.env.GH_PASSWORD = password
+          res({username, password})
+        }
       })
     })
   }
@@ -49,7 +54,21 @@ const updateREADME = members => {
   }))
 }
 
+const commitAndPush = () => new Promise((res, rej) => {
+  if (process.env.REMOTE)
+    cp.exec('git reset && git add README.md && git commit -m "Update" && ' +
+      `git push https://${process.env.GH_USERNAME}:${process.env.GH_PASSWORD}@github.com/bvmites/about.git master`,
+      {encoding: 'utf-8'},
+      (err, stdout, stderr) => {
+        if (err) rej({stdout, stderr})
+        else res()
+      })
+  else res()
+})
+
 getCredentials()
   .then(getAPI)
   .then(getAllMembers)
   .then(updateREADME)
+  .then(commitAndPush)
+  .catch(console.error.bind(console))

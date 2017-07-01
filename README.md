@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 45
+Members : 47
 ------------
 
 
@@ -24,9 +24,11 @@ Members : 45
 | Divyesh Peshavaria  | [div3125](https://github.com/div3125)                       |
 | Dixita Ganatra      | [dixita0607](https://github.com/dixita0607)                 |
 | Gaurav Jindal       | [gj100596](https://github.com/gj100596)                     |
+| Harshit Prajapati   | [Harshitprajapati](https://github.com/Harshitprajapati)     |
 | Harsh Shah          | [harshshah3](https://github.com/harshshah3)                 |
 | Hardik Patel        | [hptl2205](https://github.com/hptl2205)                     |
 | Parth Shah          | [infiniator](https://github.com/infiniator)                 |
+| Jaladhi Pathak      | [jaladhipathak](https://github.com/jaladhipathak)           |
 | Jaynil Patel        | [jaynilpatel97](https://github.com/jaynilpatel97)           |
 | Kunal Thanki        | [kthanky](https://github.com/kthanky)                       |
 | Maunil Swadas       | [maunilswadas](https://github.com/maunilswadas)             |
