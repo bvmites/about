@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 51
+Members : 55
 ------------
 
 
@@ -30,7 +30,9 @@ Members : 51
 | Parth Shah         | [infiniator](https://github.com/infiniator)                 |
 | jaladhipathak      | [jaladhipathak](https://github.com/jaladhipathak)           |
 | Jaynil Patel       | [jaynilpatel97](https://github.com/jaynilpatel97)           |
+| jayumovaliya       | [jayumovaliya](https://github.com/jayumovaliya)             |
 | Jay Patel          | [jp9573](https://github.com/jp9573)                         |
+| KeshaniVyas        | [KeshaniVyas](https://github.com/KeshaniVyas)               |
 | KevalAhalpara      | [KevalAhalpara](https://github.com/KevalAhalpara)           |
 | Kunal Thanki       | [kthanky](https://github.com/kthanky)                       |
 | Maunil Swadas      | [maunilswadas](https://github.com/maunilswadas)             |
@@ -41,6 +43,7 @@ Members : 51
 | parth upadhyay     | [parth696](https://github.com/parth696)                     |
 | Manva Pradhan      | [pradhanmanva](https://github.com/pradhanmanva)             |
 | Pranshu Dave       | [pranshu0210](https://github.com/pranshu0210)               |
+| prarthanaraval     | [prarthanaraval](https://github.com/prarthanaraval)         |
 | riddhu007          | [riddhu007](https://github.com/riddhu007)                   |
 | Ritesh1998         | [Ritesh1998](https://github.com/Ritesh1998)                 |
 | Rohit Patel        | [Rohitpa7824](https://github.com/Rohitpa7824)               |
@@ -56,6 +59,7 @@ Members : 51
 | varis bhalala      | [varisbhalala](https://github.com/varisbhalala)             |
 | Varun Barad        | [VarunBarad](https://github.com/VarunBarad)                 |
 | Vatsal Trivedi     | [vattytrivedi](https://github.com/vattytrivedi)             |
+| vjay971            | [vjay971](https://github.com/vjay971)                       |
 | Vishwas Patel      | [vrp97](https://github.com/vrp97)                           |
 | yashchavda96       | [yashchavda96](https://github.com/yashchavda96)             |
 | Darshan Dalal      | [Zayn010](https://github.com/Zayn010)                       |
