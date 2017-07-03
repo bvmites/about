@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 55
+Members : 57
 ------------
 
 
@@ -35,6 +35,7 @@ Members : 55
 | KeshaniVyas        | [KeshaniVyas](https://github.com/KeshaniVyas)               |
 | KevalAhalpara      | [KevalAhalpara](https://github.com/KevalAhalpara)           |
 | Kunal Thanki       | [kthanky](https://github.com/kthanky)                       |
+| Maulik patel       | [Maulikp21](https://github.com/Maulikp21)                   |
 | Maunil Swadas      | [maunilswadas](https://github.com/maunilswadas)             |
 | Meet Patel         | [meet16](https://github.com/meet16)                         |
 | Mitul Panchal      | [Mitsypanch](https://github.com/Mitsypanch)                 |
@@ -62,6 +63,7 @@ Members : 55
 | vjay971            | [vjay971](https://github.com/vjay971)                       |
 | Vishwas Patel      | [vrp97](https://github.com/vrp97)                           |
 | yashchavda96       | [yashchavda96](https://github.com/yashchavda96)             |
+| yashsartanpara     | [yashsartanpara](https://github.com/yashsartanpara)         |
 | Darshan Dalal      | [Zayn010](https://github.com/Zayn010)                       |
 
 
