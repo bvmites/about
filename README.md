@@ -2,7 +2,7 @@ BVMites
 =======
 
 
-Members : 63
+Members : 68
 ------------
 
 
@@ -11,6 +11,7 @@ Members : 63
 | Abhishek Mehta      | [ab2495](https://github.com/ab2495)                         |
 | Abhishek Shah       | [abhi5658](https://github.com/abhi5658)                     |
 | abhishek67parmar    | [abhishek67parmar](https://github.com/abhishek67parmar)     |
+| Abhishekshingadiya  | [abhishekshingadiya](https://github.com/abhishekshingadiya) |
 | Alay Patel          | [alaypatel07](https://github.com/alaypatel07)               |
 | ankurkiyada         | [ankurkiyada](https://github.com/ankurkiyada)               |
 | Arvind              | [Arvindiyer](https://github.com/Arvindiyer)                 |
@@ -31,6 +32,7 @@ Members : 63
 | Harshitprajapati    | [Harshitprajapati](https://github.com/Harshitprajapati)     |
 | Harsh Shah          | [harshshah3](https://github.com/harshshah3)                 |
 | Hardik              | [hptl2205](https://github.com/hptl2205)                     |
+| IAMSANAT000         | [IAMSANAT000](https://github.com/IAMSANAT000)               |
 | Parth Shah          | [infiniator](https://github.com/infiniator)                 |
 | jaladhipathak       | [jaladhipathak](https://github.com/jaladhipathak)           |
 | jayminpatel12       | [jayminpatel12](https://github.com/jayminpatel12)           |
@@ -46,7 +48,9 @@ Members : 63
 | Megharth Lakhataria | [Megharth](https://github.com/Megharth)                     |
 | Mitul Panchal       | [Mitsypanch](https://github.com/Mitsypanch)                 |
 | Neel Patel          | [neelpatel05](https://github.com/neelpatel05)               |
+| Nikita Sure         | [nikita08](https://github.com/nikita08)                     |
 | Nilesh Kevlani      | [njkevlani](https://github.com/njkevlani)                   |
+| Pancham Khaitan     | [Pancham97](https://github.com/Pancham97)                   |
 | parth upadhyay      | [parth696](https://github.com/parth696)                     |
 | Manva Pradhan       | [pradhanmanva](https://github.com/pradhanmanva)             |
 | Pranshu Dave        | [pranshu0210](https://github.com/pranshu0210)               |
@@ -69,6 +73,7 @@ Members : 63
 | vjay971             | [vjay971](https://github.com/vjay971)                       |
 | Vishwas Patel       | [vrp97](https://github.com/vrp97)                           |
 | yashchavda96        | [yashchavda96](https://github.com/yashchavda96)             |
+| yashmehta1202       | [yashmehta1202](https://github.com/yashmehta1202)           |
 | yashsartanpara      | [yashsartanpara](https://github.com/yashsartanpara)         |
 | Darshan Dalal       | [Zayn010](https://github.com/Zayn010)                       |
 
