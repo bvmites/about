@@ -64,7 +64,7 @@ module.exports = {
       if (sign(event.body) !== signature) callback(null, {statusCode: 400})
       else {
         const body = JSON.parse(event.body)
-        if (body.action !== 'member_added' || body.action !== 'member_removed')
+        if (body.action !== 'member_added' && body.action !== 'member_removed')
           callback(null, {statusCode: 200})
         else
           getMembers().then(updateREADME)
