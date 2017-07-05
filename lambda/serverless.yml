@@ -1,0 +1,14 @@
+service: about-bvmites-hook
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+  profile: bvmites
+  memorySize: 128
+  versionFunctions: false
+
+functions:
+  memberAdded:
+    handler: handler.memberAdded
+    events:
+      - http: POST member-added
