@@ -42,7 +42,7 @@ const getView = members => {
   return {count: members.length, members: table([header].concat(body), {align: replicate(maxColumns, 'c')})}
 }
 
-const updateREADME = members =>
+const updateREADME = (message, members) =>
   gh.repos.getContent({
     owner: 'bvmites',
     repo: 'about',
@@ -51,29 +51,41 @@ const updateREADME = members =>
     owner: 'bvmites',
     repo: 'about',
     path: 'README.md',
-    message: 'Update',
-    sha,
-    content: Buffer.from(Mustache.render(template, getView(members))).toString('base64')
+    content: Buffer.from(Mustache.render(template, getView(members))).toString('base64'),
+    message,
+    sha
   }))
 
 module.exports = {
   memberAdded: (event, context, callback) => {
     const ghEvent = event.headers['X-GitHub-Event'] || event.headers['x-github-event']
     const signature = event.headers['X-Hub-Signature'] || event.headers['x-hub-signature']
-    if (ghEvent === 'organization')
-      if (sign(event.body) !== signature) callback(null, {statusCode: 400})
+
+    if (ghEvent === 'organization') {
+      if (sign(event.body) !== signature) {
+        callback(null, {statusCode: 400})
+      }
       else {
         const body = JSON.parse(event.body)
-        if (body.action !== 'member_added' && body.action !== 'member_removed')
+        if (body.action !== 'member_added' && body.action !== 'member_removed') {
           callback(null, {statusCode: 200})
-        else
-          getMembers().then(updateREADME)
+        }
+        else {
+          const message = `${body.action === 'member_added' ? 'Add' : 'Remove'} ${body.membership.user.login}`
+          getMembers().then(members => updateREADME(members, message))
             .then(() => callback(null, {statusCode: 200}))
             .catch(error => callback(error))
+        }
       }
-    else if (ghEvent === 'ping')
-      if (sign(event.body) !== signature) callback(null, {statusCode: 400})
-      else callback(null, {statusCode: 200})
+    }
+    else if (ghEvent === 'ping') {
+      if (sign(event.body) !== signature) {
+        callback(null, {statusCode: 400})
+      }
+      else {
+        callback(null, {statusCode: 200})
+      }
+    }
     else callback(null, {statusCode: 400})
   }
 }
