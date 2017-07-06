@@ -57,7 +57,7 @@ const updateREADME = (message, members) =>
   }))
 
 module.exports = {
-  memberAdded: (event, context, callback) => {
+  organization: (event, context, callback) => {
     const ghEvent = event.headers['X-GitHub-Event'] || event.headers['x-github-event']
     const signature = event.headers['X-Hub-Signature'] || event.headers['x-hub-signature']
 

@@ -8,7 +8,7 @@ provider:
   versionFunctions: false
 
 functions:
-  memberAdded:
-    handler: handler.memberAdded
+  organization:
+    handler: handler.organization
     events:
-      - http: POST member-added
+      - http: POST organization
