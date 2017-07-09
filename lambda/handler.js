@@ -72,9 +72,9 @@ module.exports = {
         }
         else {
           const message = `${body.action === 'member_added' ? 'Add' : 'Remove'} ${body.membership.user.login}`
-          getMembers().then(members => updateREADME(members, message))
+          getMembers().then(members => updateREADME(message, members))
             .then(() => callback(null, {statusCode: 200}))
-            .catch(error => callback(error))
+            .catch(error => callback(new Error(JSON.stringify(error))))
         }
       }
     }
